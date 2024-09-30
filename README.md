@@ -37,6 +37,8 @@ Standard push (for subsequent pushes):
 `$ git push`
 
 The file `pages/index.js` is the starting page of the app.
+For testing each Component remove comments from the commented
+lines one by one in index.tsx
 
 ## Learn More
 
